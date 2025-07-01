@@ -1,9 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import f1car from '../assets/img/f1car.webp'
-import f1car2 from '../assets/img/f1car2.webp'
-import f1car3 from '../assets/img/f1car3.webp'
 import f1car4 from '../assets/img/f1car4.webp'
 
 const Home: React.FC = () => {

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import PlayerCard from '../components/PlayerCard'
 
 // Image imports (make sure these exist in ../assets/img/)
